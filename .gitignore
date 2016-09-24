@@ -3,3 +3,5 @@ Services/obj/
 Services/bin/
 ConsoleApp/obj/
 ConsoleApp/bin/
+Services.Tests/bin/
+Services.Tests/obj/
